@@ -105,7 +105,7 @@ class Txt(object):
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
 <b>📢 Channel :</b> <a href='https://t.me/orewa_void'>Tom Botz</a>
-<b>🛡️ :</b> <a href='https://t.me/orewa_gaban'>Davi Developer</a>
+<b>🛡️ :</b> <a href='t.me/orewa_luffy72'>Davi Developer</a>
     
 <b>😈 Bot Made By :</b> @orewa_luffy72"""
   
