@@ -15,7 +15,7 @@ DB_URL = os.environ.get("DB_URL", "")
 DB_NAME = os.environ.get("DB_NAME", "Tom")
 
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003136096998"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003396315800"))
 
 FORCE_SUB_CHANNEL_1 = int(os.environ.get("FORCE_SUB_CHANNEL_1", "-1003125658097"))
 
